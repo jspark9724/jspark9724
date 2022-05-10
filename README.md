@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jspark9724
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently Data Analysis in SQL and Pandas
+- 🌱 I’m currently learning Data Analysis in SQL and Pandas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
