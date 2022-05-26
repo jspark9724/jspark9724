@@ -9,7 +9,7 @@
 [A2](#emphasis)  
 ...snip...    
 <a name="A1"/>
-## Headers
+## A1
 
 
 [I'm an inline-style link](https://www.google.com)
