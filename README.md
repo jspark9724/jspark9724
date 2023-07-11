@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Trade Spend Optimization Project at UofT**
 
-- 📫 How to reach me **jspark9724@gmail.com**
+- 📫 How to reach me: **jspark9724@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
