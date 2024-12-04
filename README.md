@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jun S. Park</h1>
-<h3 align="center">"Currently working as a Data Engineer for PureFacts Financial Solutions"</h3>
+<h3 align="left">"Currently working as a Data Engineer at PureFacts Financial Solutions"</h3>
 
 - 📫 How to reach me: **jspark9724@gmail.com**
 
